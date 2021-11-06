@@ -21,5 +21,5 @@ Bangla Rotter's Internal-External scale is released under the [CC-BY-NC-SA (Crea
 
 
 ### Download
-<a href="Bangla-Rotter-I-E-Scale/Rotter.github.io/Tool/Rotters scale adopted in bangla.pdf" target="_blank">PDF.</a>
+<a href="Bangla-Rotter-I-E-Scale/Rotter.github.io/Tool/Doc.pdf" target="_blank">Scale.</a>
 
