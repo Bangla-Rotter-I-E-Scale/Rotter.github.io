@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+---
+layout: page
+title: Bangla Rotter's I-E Scale
+description: Website for the Bangla Rotter's I-E Scalet
+---
 
-You can use the [editor on GitHub](https://github.com/Bangla-Rotter-I-E-Scale/Rotter.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![LEBA cartoon logo](image.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About
 
-### Markdown
+Bangla Rotter's Internal-External scale is a psychometrically valid and reliable tool to measure the locus of control of Bangladeshi nationals
+### Citing
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+If you are using the instrument, please cite the instrument's repository as well as our preprint on the topic:
 
-```markdown
-Syntax highlighted code block
+### License
 
-# Header 1
-## Header 2
-### Header 3
+Bangla Rotter's Internal-External scale is released under the [CC-BY-NC-SA (Creative Commons Attribution-NonCommercial-ShareAlike 4.0) International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-- Bulleted
-- List
+![CC-BY-NC-SA logo](https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Bangla-Rotter-I-E-Scale/Rotter.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
