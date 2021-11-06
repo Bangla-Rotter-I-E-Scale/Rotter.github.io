@@ -4,7 +4,7 @@ title: Bangla Rotter's I-E Scale
 description: Website for the Bangla Rotter's I-E Scalet
 ---
 
-![LEBA cartoon logo](image.png)
+
 
 ### About
 
