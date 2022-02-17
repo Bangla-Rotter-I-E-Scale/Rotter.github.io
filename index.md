@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bangla Rotter's I-E Scale
+title: Bangla Rotter's Internal-External(I-E) Locus of Control Scale
 description: Website for the Bangla Rotter's I-E Scalet
 ---
 
@@ -8,7 +8,7 @@ description: Website for the Bangla Rotter's I-E Scalet
 
 ### About
 
-Bangla Rotter's Internal-External scale is a psychometrically valid and reliable tool to measure the locus of control of Bangladeshi nationals
+Bangla Rotter's Internal-External  locus of control scale is a psychometrically valid and reliable tool to measure the locus of control of Bangladeshi nationals
 ### Citing
 
 If you are using the instrument, please cite the instrument's repository as well as our preprint on the topic:
