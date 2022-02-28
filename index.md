@@ -15,7 +15,7 @@ If you are using the instrument, please cite the instrument's repository as well
 
 ### License
 
-Bangla Rotter's Internal-External scale is released under the [CC-BY-NC-SA (Creative Commons Attribution-NonCommercial-ShareAlike 4.0) International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+Bangla Rotter's Internal-External scale is released under the [CC-BY-NC-ND (Creative Commons Attribution-NonCommercial-ShareAlike 4.0) International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
 ![CC-BY-NC-SA logo](https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png)
 
